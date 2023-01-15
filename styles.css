@@ -1,0 +1,137 @@
+/* header */
+.first{
+    background-color: rgba(255, 144, 14, 0.1);
+    height: auto;
+    width: 100%;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0% 230px;
+
+}
+.ul li{
+    display: inline;
+    padding-left: 20px;
+}
+.second{
+    text-align: center;
+    margin-top: 80px;
+}
+.btn{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    background-color: #FF900E;
+    color: aliceblue;
+    width: 180px;
+    height: 64px;
+    border-radius: 20px;
+    border: none;
+}
+.banner{
+    height: 400px;
+    margin: 10px auto;
+}
+/* main-section-2 */
+.blog{
+    margin-top: 132px;
+    display: flex;
+    align-items: center;
+    gap: 73px;
+    margin-left: 200px;
+}
+.img{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+}
+.a{
+   color: #727272;
+   font-weight: 500;
+   font-size: 45px;
+}
+.b{
+    font-weight: 700;
+    font-size: 45px;
+}
+.c{
+    color: #FF900E;
+    font-weight: 700;
+    font-size: 45px;
+}
+.primary{
+    color: #727272;
+}
+/* section-2 */
+.sub-blog{
+    display: flex;
+    margin: 80px auto;
+    gap: 60px;
+    margin-left: 150px;
+}
+.it{
+    padding-left: 30px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.it div{
+    height: 140px;
+    width: 100%;
+    background-color: 
+    #FFFFFF;
+}
+#my{
+    height: 750px;
+}
+/* footer-section-1 */
+.blg{
+    margin-top: 50px;
+    margin-left: 160px;
+    margin-bottom: 20px;
+}
+.ttt{
+   display: flex;
+   text-align: center;
+   justify-content: space-around;
+   margin-bottom: 45px;
+}
+.ttt div{
+    width: 169px;
+    height: 136.22px;
+    border: 2px solid #FF900E;
+    padding: 45px;
+    margin-top: 70px;
+    border-radius: 20px;
+}
+/* section-2 */
+.co-end{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.co-end h1{
+    font-weight: 700;
+    font-size: 45px;
+}
+/* section-3 */
+.sub-end{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    margin-bottom: 140px;
+    color: rgb(134, 120, 120);
+}
+/* section-4 */
+.the-end{
+    margin: 0% auto;
+    height: 80px;
+    width: 1000px;
+    background-color: rgb(244, 221, 191);
+    border-radius: 8px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.lala{
+    padding-top: 30px;
+}
