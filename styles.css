@@ -135,3 +135,62 @@
 .lala{
     padding-top: 30px;
 }
+#hide{
+    display: none;
+}
+/* media queries */
+/* mobile-divices */
+@media only screen and (max-width:688px)  {
+            .first{
+                width: 100%;
+            }
+            .menu{
+                margin-left: 0%;
+                width: 100%;
+            }
+            .ul li{
+                margin-left: 20px;
+                display: flex;
+                flex-direction: column;
+                padding-top: 10px;
+            }
+            #yt{
+                width: 100%;
+            }
+            .blog{
+                display: flex;
+                flex-direction: column;
+                margin-left: 0%;
+            }
+            .sub-blog{
+                display: flex;
+                flex-direction: column;
+                margin-left: 0%;
+                margin-right: 0%;
+            }
+            #my{
+                width: 100%;
+            }
+            #itn{
+                display: flex;
+                flex-direction: column;
+            }
+          .ttt{
+            display: flex;
+            flex-direction: column;
+          }
+          .sub-end{
+            display: flex;
+            flex-direction: column;
+            padding-top: 50px;
+          }
+          .the-end{
+            width: 370px;
+        }
+        .done{
+            align-items: center;
+        }
+        #ok{
+            margin-left: 50px;
+        }
+    }
